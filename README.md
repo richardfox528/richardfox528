@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm **Richardfox** 
+
 <!--Photo -->
+
 ## 🚀 About Me
 
 Hi, I'm Ricardo Muñoz, a developer passionate about code and design. I like to create all those ideas in my mind and make them fully functional, elegant and accessible projects. I have experience in C#, C++, JavaScript, Python, Kotlin and other technologies. I love to learn new the new ways the world is advancing and share my knowledge with the community. 
