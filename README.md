@@ -1,4 +1,4 @@
-### Hi there 👋 I'm **Richardfox** 
+### Hi there 👋 I'm *Richardfox*
 
 <!--Photo -->
 
