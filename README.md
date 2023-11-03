@@ -8,7 +8,7 @@ Hi, I'm Ricardo Muñoz, a developer passionate about code and design. I like to 
 
 You can see some of my projects in my GitHub repository.
 
-[![Repository](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/richardfox528)
+[![Repository](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/richardfox528?tab=repositories)
 
 ## 🔗 Links
 Follow me...
