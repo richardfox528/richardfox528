@@ -60,12 +60,3 @@ Follow me...
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/richardfox528/count.svg?"  />
-</div>
-
-
-
